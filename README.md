@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**maverick4code/maverick4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 I’m **Sagar Harish Shahari**, a Computer Engineering undergrad with an insatiable curiosity for:
+  - **Algorithms**
+  - **Artificial Intelligence**
+  - **Finance**
 
-Here are some ideas to get you started:
+- 🧠 Fluent in:
+  - **C++**
+  - **Python**
+  - **SQL**
+  - **R**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🏆 Hackathon Stats:
+  - Participated in **9**
+  - **Won 4** of them!
+
+- ✨ Let’s connect — I'm always up for building something **meaningful and exciting**!
+
