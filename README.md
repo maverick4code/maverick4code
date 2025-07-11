@@ -16,5 +16,5 @@
   - Participated in **9**
   - **Won 4** of them!
 
-- ✨ Let’s connect — I'm always up for building something **meaningful and exciting**!
+-  Let’s connect for building something **meaningful and exciting**!
 
